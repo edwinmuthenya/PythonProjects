@@ -1,0 +1,13 @@
+# PythonProjects
+# StudentsMarksProcessing
+The code for this project trys to explain the questions below:
+Write a Python program to process a student results at the University undergraduate studies. To print transcripts for the four years and the degree certificate.
+(a) Accept the student name, their registration number and the degree program
+(b) Accept the academic year (2024/2025, etc), year of study (1, 2, 3, 4), semester (1, 2), course code (SMA3103), course description (Calculus 1), marks and grade (c) The grading system is: A (≥ 70), B (60 − 69), C (50 − 59), D (40 − 49) and E (≤ 39)
+(d) Output the results for each year - a transcript with the student name, registration number, degree, year of study with the course description, course code, marks and grade shown based on the semester.
+(e) We expect to see four transcripts, each with 10 units per year (Five (5) units every semester)
+After completing the above, extend the program to print a certificate based on the following
+criteria:
+(a) Find the mean score of all the forty units the students has taken during his/her studies for the four years.
+(b) Classify the degree as: First class honours (≥ 70), Second upper division (60 − 69), second lower division (50 − 59), pass (40 − 49)
+(c) Customize your own certificate to show the student name, degree program, classification, the year of completion and the university name
